@@ -1,4 +1,5 @@
 {
   "homepage.title": "This is a sample title",
-  "homepage.subheading": "This is a sample subheading"
+  "homepage.subheading": "This is a sample subheading",
+  "homepage.test": "This is a sample subheading"
 }
